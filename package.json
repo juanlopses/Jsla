@@ -6,6 +6,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "cors": "*"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
